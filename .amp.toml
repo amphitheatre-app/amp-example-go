@@ -6,7 +6,6 @@ version = "0.0.2"
 authors = ["Eguo Wang <wangeguo@gmail.com>"]
 edition = "v1"
 description = "A simple Golang example app"
-documentation = "https://docs.amphitheatre.app"
 readme = "README.md"
 homepage = "https://github.com/amphitheatre-app/amp-example-go"
 repository = "https://github.com/amphitheatre-app/amp-example-go"

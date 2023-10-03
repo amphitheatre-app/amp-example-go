@@ -1,8 +1,5 @@
-version = 1
-
-[character]
 name = "amp-example-go"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["Eguo Wang <wangeguo@gmail.com>"]
 edition = "v1"
 description = "A simple Golang example app"
